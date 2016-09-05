@@ -15,31 +15,31 @@ Contributions are always welcome, hoping people will help me in growing this. To
 
 + **Code faster by using keyboard shortcuts**
   
-  |Description|Mac|Linux/Win
-  |---|---|---
-  |Lookup IDE commands|`Cmd`+`Shift`+`A`|`Ctrl`+`Shift`+`A`
-  |Open Class|`Cmd`+`O`|`Ctrl`+`O`
-  |Open File|`Cmd`+`Shift`+`O`|`Ctrl`+`Shift`+`N`
-  |Open recently edited file|`Cmd`+`Shift`+`E`|`Ctrl`+`Shift`+`E`
-  |Lookup Actions|`Cmd`+`Shift`+`A`|`Ctrl`+`Shift`+`A`
-  |Open Symbol|`Cmd`+`Opt`+`O`|`Alt`+`Shift`+`N`
-  |Open recently used file|`Cmd`+`E`|`Ctrl`+`E`
-  |Last Edited Location|`Cmd`+`Shift`+`Backspace`|`Ctrl`+`Shift`+`Backspace`
-  |Find Usage in persistent window|`Opt`+`F7`|`Alt`+`F7`
-  |Find Usage in floating window|`Cmd`+`Opt`+`F7`|`Ctrl`+`Alt`+`F7`
-  |Format the code with proper Indentation|`Cmd`+`Opt`+`L`|`Ctrl`+`Alt`+`L`
-  |Surround With|`Opt`+`Cmd`+`T`|`Alt`+`Ctrl`+`T`
-  |Open Terminal|`Opt`+`F12`|`Alt`+`F12`
-  |Generate Setter/Getters/|`Cmd`+`N`|`Alt`+`Ins`
-  |Find Class|`CMD`+`O`|`Ctrl`+`N`
-  |Refactor/Rename|`Shift`+`F6`|`Shift`+`F6`
-  |Quick Fix|`Opt`+`Enter`|`Alt`+`Enter`
-  |Goto Definition|`Cmd`+`B`|`Ctrl`+`B`
-  |Show parameters for selected method|`Cmd`+`P`|`Ctrl`+`P`
-  |Refactor This|`Ctrl`+`T`|`Ctrl`+`Alt`+`Shift`+`T`
-  |Stop Process|`Cmd`+`F2`|`Ctrl`+`F2`
-  |Search Everywhere|`Shift`+`Shift`|`Shift`+`Shift`
-  |Select Methods to Override|`Ctrl`+`O`|`Ctrl`+`O`
+  |Description|Linux/Win
+  |---|---
+  |Lookup IDE commands|`Ctrl`+`Shift`+`A`
+  |Open Class|`Ctrl`+`O`
+  |Open File|`Ctrl`+`Shift`+`N`
+  |Open recently edited file|`Ctrl`+`Shift`+`E`
+  |Lookup Actions|`Ctrl`+`Shift`+`A`
+  |Open Symbol|`Alt`+`Shift`+`N`
+  |Open recently used file|`Ctrl`+`E`
+  |Last Edited Location|`Ctrl`+`Shift`+`Backspace`
+  |Find Usage in persistent window|`Alt`+`F7`
+  |Find Usage in floating window|`Ctrl`+`Alt`+`F7`
+  |Format the code with proper Indentation|`Ctrl`+`Alt`+`L`
+  |Surround With|`Alt`+`Ctrl`+`T`
+  |Open Terminal|`Alt`+`F12`
+  |Generate Setter/Getters/|`Alt`+`Ins`
+  |Find Class|`Ctrl`+`N`
+  |Refactor/Rename|`Shift`+`F6`
+  |Quick Fix|`Alt`+`Enter`
+  |Goto Definition|`Ctrl`+`B`
+  |Show parameters for selected method|`Ctrl`+`P`
+  |Refactor This|`Ctrl`+`Alt`+`Shift`+`T`
+  |Stop Process|`Ctrl`+`F2`
+  |Search Everywhere|`Shift`+`Shift`
+  |Select Methods to Override|`Ctrl`+`O`
 
 + **Use plugins to become more efficient**
   1. [KeyPromoter](https://plugins.jetbrains.com/plugin/4455)
