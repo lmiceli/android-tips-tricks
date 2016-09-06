@@ -114,7 +114,7 @@ HttpUrlConnect suffers from [quite some bugs](https://android-developers.blogspo
 
   ```
 
-+ **Use [Pidcat](https://github.com/JakeWharton/pidcat) for logging**
++ **Use [Pidcat](https://github.com/JakeWharton/pidcat) for logging (no va bien en windows, prefiero el log de android studio anyway para hacer click en excepciones y etc)** 
 
 + **Use some Version Control System(VCS) like [Git](https://git-scm.com/)**
 
