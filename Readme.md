@@ -18,7 +18,7 @@ Contributions are always welcome, hoping people will help me in growing this. To
   |Description|Linux/Win
   |---|---
   |Lookup IDE commands|`Ctrl`+`Shift`+`A`
-  |Open Class|`Ctrl`+`O`
+  |Open Class|`Ctrl`+`N`
   |Open File|`Ctrl`+`Shift`+`N`
   |Open recently edited file|`Ctrl`+`Shift`+`E`
   |Lookup Actions|`Ctrl`+`Shift`+`A`
